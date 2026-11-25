@@ -94,8 +94,6 @@ Assistant Professor (MCA), PCCoE, Pune
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prakash%20Ukhalkar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-ukhalkar) [![GitHub](https://img.shields.io/badge/GitHub-prakash--ukhalkar-181717?logo=github&logoColor=white)](https://github.com/prakash-ukhalkar) [![Website](https://img.shields.io/badge/Website-prakash--ukhalkar.github.io-0B2E59?logo=githubpages&logoColor=white)](https://prakash-ukhalkar.github.io)
 
-[linkedin.com/in/prakash-ukhalkar](https://www.linkedin.com/in/prakash-ukhalkar) · [github.com/prakash-ukhalkar](https://github.com/prakash-ukhalkar) · [prakash-ukhalkar.github.io](https://prakash-ukhalkar.github.io)
-
 *Python Programming for Pharmaceutical Applications · Add-on Certificate Course with Spectratix Pharma Pvt. Ltd.*  
 © 2026 Prakash Ukhalkar
 
