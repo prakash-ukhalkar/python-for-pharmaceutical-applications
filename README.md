@@ -37,14 +37,6 @@ Each module folder contains the **presentation** (PowerPoint), the hands-on **no
    * **VS Code + Python + Jupyter extension:** recommended for your own laptop.
 2. **Open the module notebook** and run the cells from top to bottom with `Shift + Enter`.
 3. **Open in Colab:** in Colab choose *File ▸ Open notebook ▸ GitHub*, paste this repository's URL and pick the notebook.
-   Direct links (one per module, added as each module is published):
-
-   | Module | Notebook |
-   |---|---|
-   | 1 · Getting started with Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prakash-ukhalkar/python-for-pharmaceutical-applications/blob/main/modules/module-01-getting-started-with-python/notebook/Module_1_Getting_Started_with_Python.ipynb) |
-
-   For later modules, use the same address and change the folder and file name:
-   `https://colab.research.google.com/github/prakash-ukhalkar/python-for-pharmaceutical-applications/blob/main/modules/<module-folder>/notebook/<notebook-name>.ipynb`
 4. **Local setup for later modules** (NumPy, Pandas, Matplotlib and so on):
    ```bash
    python -m venv .venv
