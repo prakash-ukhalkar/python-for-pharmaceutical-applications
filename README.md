@@ -4,7 +4,7 @@
 
 Slides, hands-on notebooks and practice material for a beginner-friendly course that teaches Python from scratch and then applies it to pharmaceutical problems: calculations, data handling, visualization and statistics, cheminformatics, pharmacokinetics and an introduction to AI in drug discovery.
 
-**New here? Start with the [Setup guide](docs/setup/setup-guide.md)** to install Python, VS Code or open Google Colab.
+**New here? Start with the [Setup guide](docs/setup/setup-guide.pdf)** to install Python, VS Code or open Google Colab.
 
 **Prakash Ukhalkar** · Educator · Mentor · Machine Learning, AI & Innovation  
 Assistant Professor (MCA), PCCoE, Pune
